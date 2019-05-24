@@ -35,7 +35,7 @@ This course has the following software requirements:<br/>
 Linux
 
 ## Related Products
-* [The Complete Machine Learning Course with Python [Video]] (https://www.packtpub.com/application-development/complete-machine-learning-course-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557775)
+* [The Complete Machine Learning Course with Python [Video]](https://www.packtpub.com/application-development/complete-machine-learning-course-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557775)
 
 * [Building Large-Scale Web Applications with Angular]( https://www.packtpub.com/web-development/building-large-scale-web-applications-angular?utm_source=github&utm_medium=repository&utm_campaign=9781789950779)
 
